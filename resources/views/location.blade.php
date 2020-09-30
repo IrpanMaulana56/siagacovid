@@ -1,0 +1,2 @@
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.6933894927233!2d106.80819191430967!3d-6.171791962198157!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f67b8bbb878f%3A0x8fc8dd7f9440e9ad!2sRSUD%20Tarakan%20Jakarta!5e0!3m2!1sid!2sid!4v1601351027949!5m2!1sid!2sid" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+  </div>
